@@ -1,7 +1,7 @@
 selenium-tzk
 ============
 
-A Java/Selenium project to scrape blogspot data from the dark serial [The Zombie Knight](http:\\thezombieknight.blogspot.com).
+A Java/Selenium project to scrape blogspot data from the dark serial [The Zombie Knight](http://thezombieknight.blogspot.com).
 
 **\src\main\resources\config.properties:**
 
