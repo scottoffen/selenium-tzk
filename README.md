@@ -1,5 +1,4 @@
-selenium-tzk
-============
+![](https://raw.github.com/scottoffen/selenium-tzk/master/tzk.jpg)
 
 A Java/Selenium project to scrape blogspot data from the dark serial [The Zombie Knight](http://thezombieknight.blogspot.com).
 
