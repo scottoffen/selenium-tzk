@@ -28,6 +28,8 @@ In addition to having a [Java JDK](http://www.oracle.com/technetwork/java/javase
 - Put both files in same directory
 - Open a command-line in that directory and run:
 
-    java -jar selenium-server-standalone-2.39.0.jar -role node -register false -Dwebdriver.chrome.driver=chromedriver.exe
+```
+$ java -jar selenium-server-standalone-2.39.0.jar -role node -register false -Dwebdriver.chrome.driver=chromedriver.exe
+```
 
 Your node should be up and running!
